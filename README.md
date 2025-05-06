@@ -9,7 +9,7 @@
   
 🚀 JobHoarders is a modern job portal built with the MERN Stack to simplify job hunting and hiring. It offers a seamless experience for both job seekers and recruiters with real-time updates, a clean UI, and essential features inspired by real-world platforms. Fast, responsive, and user-friendly — JobHoarders bridges the gap between talent and opportunity.
 
-![Screenshot (89)](https://github.com/user-attachments/assets/32dcfc90-a870-4198-a3cc-dad9500d5063)
+![Screenshot (89)](https://github.com/mohd-shahill/jobhoarders/blob/main/assets/screenshot.png)
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
