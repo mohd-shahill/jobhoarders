@@ -15,8 +15,8 @@ const BotpressChat = () => {
           selector: '#webchat',
           showWidget: true,
           configuration: {
-            botName: 'Nuera AI',
-            botAvatar: 'https://files.bpcontent.cloud/2025/05/06/12/20250506125510-IYK0D7WC.png',
+            botName: 'Neura AI',
+            botAvatar: 'https://freesvg.org/img/1538298822.png',
             color: '#000000',
             themeMode: 'light',
             radius: 2,
