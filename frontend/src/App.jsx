@@ -70,6 +70,10 @@ const appRouter = createBrowserRouter([
     path:"/admin/jobs/:id/applicants",
     element:<ProtectedRoute><Applicants/></ProtectedRoute> 
   },
+  {
+  path: "/webview",
+  element: <Webview />
+}
 
 ])
 function App() {
