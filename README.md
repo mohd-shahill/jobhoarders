@@ -14,7 +14,7 @@
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 
-Name: Basit
+Name: Abdul Basit Mahmood
 
 Email: basit1302001@gmail.com
 
