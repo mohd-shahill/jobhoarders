@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+ximport { useEffect } from 'react';
 
 const BotpressChat = () => {
   useEffect(() => {
@@ -11,7 +11,7 @@ const BotpressChat = () => {
       if (webchat) {
         webchat.init({
           botId: 'a4932988-74ab-4f96-bcb3-b2856089315d',
-          clientId: 'f8a202df-9287-4eaf-93db-b5cf23170342',
+          clientId: '1cdec193-60d3-493f-bf00-da4a71aec6e7',
           selector: '#webchat',
           showWidget: true,
           configuration: {
