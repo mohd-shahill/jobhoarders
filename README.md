@@ -30,6 +30,6 @@ Name: Md Arsalan
 
 Email: arsalankec@gmail.com
 
-LinkedIn: [Basit Mahmood](https://www.linkedin.com/in/md-arsalan-web)
+LinkedIn: [Md Arsalan](https://www.linkedin.com/in/md-arsalan-web)
 
-<h3 align="center"><b>Developed by Basit Mahmood</b></h1>
+<h3 align="center"><b>Developed by Team Job Hoarders</b></h1>
