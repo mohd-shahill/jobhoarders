@@ -47,7 +47,7 @@ const Navbar = () => {
                                     <li><Link to="/">Home</Link></li>
                                     <li><Link to="/jobs">Jobs</Link></li>
                                     <li><Link to="/browse">Browse</Link></li>
-                                    <li><Link to="/">Nuera AI</Link></li>
+                                    <li><Link to="/">Neura AI</Link></li>
                                     <li>
                                         <a
                                             href="https://jnxuan-jh-resume-screening.hf.space/?embed=true&embed_options=show_toolbar#41183b1a"
