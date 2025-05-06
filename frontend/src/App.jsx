@@ -15,6 +15,7 @@ import PostJob from './components/admin/PostJob'
 import Applicants from './components/admin/Applicants'
 import ProtectedRoute from './components/admin/ProtectedRoute'
 import Webview from './components/Webview.jsx'
+import BotpressChat from './components/BotpressChat'
 
 
 const appRouter = createBrowserRouter([
@@ -81,6 +82,7 @@ function App() {
   return (
     <div>
       <RouterProvider router={appRouter} />
+      <BotpressChat />
     </div>
   )
 }
