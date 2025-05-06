@@ -56,6 +56,11 @@ const Navbar = () => {
                                             Scanalyzer
                                         </a>
                                     </li>
+                                    <li>
+  <Link to={`/webview?url=${encodeURIComponent("https://jnxuan-jh-resume-screening.hf.space/?embed=true&embed_options=show_toolbar#41183b1a")}`}>
+    Scanalyzer
+  </Link>
+</li>
 
                                 </>
                             )
