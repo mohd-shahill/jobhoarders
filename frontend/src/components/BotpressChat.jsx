@@ -40,7 +40,6 @@ const BotpressChat = () => {
       id="webchat"
       style={{
         width: '100%',
-        height: '500px',
         maxWidth: '500px',
         margin: '0 auto',
       }}
